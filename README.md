@@ -12,9 +12,9 @@ Linked in https://www.linkedin.com/in/lakshaykamat/
 
 Telegram https://t.me/Lakshaykamat
 
-Sololaern https://www.sololearn.com/profile/21881286
+Sololearn https://www.sololearn.com/profile/21881286
 
-Bio:
+My Bio:
 
 My name is Lakshay Kamat
 
