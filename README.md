@@ -1,16 +1,26 @@
 ### Hi there 👋
 
-<!--
-**lakshaykamat/lakshaykamat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my Profile 😉
 
-Here are some ideas to get you started:
+I am very Passionate to coding and Programming
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Reach me :
+
+Linked in https://www.linkedin.com/in/lakshaykamat/
+
+Telegram https://t.me/Lakshaykamat
+
+Sololaern https://www.sololearn.com/profile/21881286
+
+Bio:
+
+My name is Lakshay Kamat
+
+I am 17 years old
+
+I am curently in my Schools
+
+I live in India
+
