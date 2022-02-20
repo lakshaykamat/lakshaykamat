@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 ### Welcome to my Profile 😉
 
@@ -8,7 +8,7 @@ I am very Passionate to coding and Programming
 
 Reach me :
 
-Linked in https://www.linkedin.com/in/lakshaykamat/
+![Linked in](3-2-linkedin-download-png_32x32.ico) https://www.linkedin.com/in/lakshaykamat/
 
 Telegram https://t.me/Lakshaykamat
 
