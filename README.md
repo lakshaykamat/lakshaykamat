@@ -26,18 +26,3 @@ Reach me :
 <a href="https://www.facebook.com/lakshaykama/" target="_blank">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png">
 </a>
-
-
-My Bio:
-
-- My name is **Lakshay Kamat**
-
-- I am *17* years old
-
-- I am curently in My Schools
-
-- I live in <a href="https://www.google.com/search?client=firefox-b-d&q=india" target="_blank">
-  <img  width="32" height="32" src="https://freepngimg.com/thumb/india/4-2-india-flag-png-hd-thumb.png">
-</a>
-
-
