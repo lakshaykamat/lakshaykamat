@@ -23,6 +23,6 @@ Reach me :
 <a href="https://www.reddit.com/user/lakshaykamat" target="_blank">
   <img style="margin-right: 10px;" width="32" height="32" src="https://logodownload.org/wp-content/uploads/2018/02/reddit-logo-16.png">
 </a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/thelakshaykamat/" target="_blank">
+<a href="https://www.facebook.com/Thelakshaykamat/" target="_blank">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/facebook-logo-icon/facebook-logo-icon-file-facebook-icon-svg-wikimedia-commons-4.png">
 </a>
