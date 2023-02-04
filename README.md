@@ -23,7 +23,7 @@ Reach me :
 </a>&nbsp;&nbsp;
 
 
-<a href="https://www.instagram.com/lakshaykamat/" target="_blank">
+<a href="https://www.instagram.com/lakshaykamat.exe/" target="_blank">
   <img style="margin-right: 10px;" width="32" height="32" src="https://www.freepnglogos.com/uploads/logo-ig-png/logo-ig-instagram-new-logo-vector-download-13.png">
 </a>&nbsp;&nbsp;
 
