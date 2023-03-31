@@ -9,6 +9,14 @@
 
 - 🌱 I’m currently learning **Full Stack Web**
 
+- 👨‍💻 All of my projects are available at [https://lakshaykamat.netlify.app/](https://lakshaykamat.netlify.app/)
+
+- 💬 Ask me about **Reactjs, Nodejs, HTML, CSS**
+
+- 📫 How to reach me **lakshaykamat2048@gmail.com**
+
+- ⚡ Fun fact **I think i am funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codepen.io/lakshaykamat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="lakshaykamat" height="30" width="40" /></a>
