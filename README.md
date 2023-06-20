@@ -9,9 +9,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web**
 
-- 👨‍💻 All of my projects are available at [https://lakshaykamat.netlify.app/](https://lakshaykamat.netlify.app/)
-
-- 💬 Ask me about **Reactjs, Nodejs, HTML, CSS**
+- 💬 Ask me about **Nets Reactjs, Nodejs, HTML, CSS**
 
 - 📫 How to reach me **lakshaykamat2048@gmail.com**
 
