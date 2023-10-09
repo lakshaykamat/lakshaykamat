@@ -1,15 +1,11 @@
 <h1 align="center">Hi 👋, I'm Lakshay Kamat</h1>
-<h3 align="center">A passionate Full-stack web developer in India</h3>
+<h3 align="center">In a committed relationship with my terminal 💑</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lakshaykamat&label=Profile%20views&color=0e75b6&style=flat" alt="lakshaykamat" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=lakshaykamat&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshaykamat" alt="lakshaykamat" /></a> </p>
+- 🌱 I’m currently learning **Data Structures and Algorithms**
 
-<p align="left"> <a href="https://twitter.com/lakshaykamat" target="blank"><img src="https://img.shields.io/twitter/follow/lakshaykamat?logo=twitter&style=for-the-badge" alt="lakshaykamat" /></a> </p>
-
-- 🌱 I’m currently learning **Full Stack Web**
-
-- 💬 Ask me about **Nets Reactjs, Nodejs, HTML, CSS**
+- 💬 Ask me about **Reactjs and Java**
 
 - 📫 How to reach me **lakshaykamat2048@gmail.com**
 
