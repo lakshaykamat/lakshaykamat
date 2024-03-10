@@ -1,6 +1,7 @@
 
 <h1 align="center">Lakshay Kamat</h1>
-<h3 align="center">Beyond your imagination.</h3>
+
+<h3 align="center">memonto mori</h3>
 
 <p align="center"> 
 <!--
