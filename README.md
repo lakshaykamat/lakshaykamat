@@ -1,7 +1,8 @@
 <p align="center">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lakshaykamat&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000">
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaykamat&layout=compact&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI">
-  <img src ="https://github-readme-streak-stats.herokuapp.com?user=lakshaykamat&theme=dark&hide_border=true&background=FFFFFF00">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=lakshaykamat&show_icons=true&count_private=true&theme=dark&hide_border=true&hide=issues,contribs&bg_color=00000000&rank_icon=percentile"><br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=lakshaykamat&theme=dark&hide_border=true&short_numbers=true&date_format=j%20M%5B%20Y%5D&background=EB545400" alt="GitHub Streak" /></a>
+<!--   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=lakshaykamat&hide_border=true&theme=dark&bg_color=00000000&langs_count=6&hide=jupyter%20notebook,tex,css,php&exclude_repo=Pacman-AI&hide_progress=true"> -->
+
   <br>
 </p>
 
